@@ -2,7 +2,8 @@ body {
 background-color: #444233;
 color: #dddddd;
 font-family: Arial, Helvetica, sans-serif;
-margin 10% 20%}
+margin 10% 20%;
+color: #ff69b4;}
 
 .exp-header {
   text-align: center;
@@ -13,22 +14,23 @@ margin 10% 20%}
 }
 h3{
   font-size: 30px;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #ffd700;
   -webkit-text-stroke-width:2px;
-  color: #000
+  color: #ff69b4
 }
-h4{  font-size: 20px;
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke-width:2px;
+h4{ text-align:center; 
+  font-size: 18px;
+  -webkit-text-fill-color: #ffd700;
+  -webkit-text-stroke-width:1px;
   color: #000}
 h5{  font-size: 20px;
-  -webkit-text-fill-color: #;
+  -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width:1px;
   color: #000}
 h6{  font-size: 20px;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #ff00ff;
   -webkit-text-stroke-width:1px;
-  color: #000;
+  color: #0000cd;
   position:relative; top:-15px;}
 
 
